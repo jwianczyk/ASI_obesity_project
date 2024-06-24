@@ -15,7 +15,6 @@
 5. Check if packages are installed - `pip freeze`
 
 ## To Do:
-------
 - [x] ~~Fork repo~~
 - [ ] Clean repo
 - [ ] Attach GitHub Actions as CI/CD
