@@ -15,7 +15,7 @@
 5. Check if packages are installed - `pip freeze`
 
 
-- [x] Fork repo
+- [x] ~~~~Fork repo~~~~
 - [ ] Clean repo
 - [ ] Attach GitHub Actions as CI/CD
 - [ ] Set RDS as a default data source for pipeline
